@@ -1,0 +1,2 @@
+# myrepoSDA
+tester ma configuration
