@@ -1,0 +1,63 @@
+---
+title: "**Presentation Carine SDA**"
+author: "S.Carine"
+date: "2025-07-06"
+output:
+ ioslides_presentation:
+  toc: true
+  toc_depth: 2
+  number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# **Guide d'utilisation du chargeur de batterie (AGECOM START BOOSTER/CHARGEUR BATT)**
+[Lien_vidéo](https://drive.google.com/file/d/11yV1200xM0-cTUpvyUuWcBdkBUG3TAux/view?usp=sharing)
+
+# **SOMMAIRE**
+
+I- Objectifs<br>
+II- Préparation et installation <br>
+III- Réglages et Fonctionnement
+
+# **I – Objectif du guide**
+
+Afin d’accélérer le traitement des batteries revenues du terrain dans les hubs, un chargeur de grande capacité sera déployé dans chaque hub afin de permettre la recharge simultanée de plusieurs batteries. Cette démarche vise à réduire les délais de traitement et à améliorer la satisfaction client.
+Ce guide a pour objectif de vous accompagner dans la prise en main et la bonne utilisation du chargeur de batterie AGECOM de la marque INGCO.
+
+# **II- Préparation et installation**
+
+## **1-Outils de travail**
+
+**Pinceau**<br>
+**Multimètre**<br>
+**Clé de 8**<br>
+**Câble batterie 25mm²**<br>
+**Chargeur batterie**<br>
+
+![Pinceau](Pinceau.png)<br>
+
+## **2-Classification des batteries selon leur niveau de tension.**
+
+Il est plus facile et plus efficace de charger des batteries ayant les mêmes niveaux de tension.
+Pour ce fait, classifier les batteries selon leur niveau de tension et charger les ensemble.<br>
+
+*À l’aide du multimètre, mesurez la tension de chaque batterie*.<br>
+*Réglez le multimètre sur un calibre supérieur  à 20V DC (les batteries Qotto ont une tension nominale de 12V).*<br>
+*Notez la tension mesurée sur chaque batterie pour faciliter la classification.*<br>
+*Dépoussiérez les bornes des batteries à l’aide du pinceau.*<br>
+*Regroupez ensuite les batteries ayant des tensions proches. Ex: 5V ; 5,4V ; 5 ,8V*<br>
+*Connectez en parallèle un groupe de 10 à 15 batteries maximum pour une recharge simultanée*.
+
+# **III- Réglages et Fonctionnement**
+Le chargeur AGECOM dispose de plusieurs niveaux de réglages adaptés à la tension des batteries.
+Pour préserver la durée de vie et les performances des batteries, une recharge progressive est essentielle.
+**🔧 Étapes à suivre:**<br>
+*Connectez le chargeur aux batteries préalablement classées et câblées en parallèle*.<br>
+*Réglez le chargeur en fonction de la tension mesurée des batteries, selon les configurations ci-dessous:*<br>
+
+# **Etapes**
+
+![Etapes](Tableau.png)<br>
+

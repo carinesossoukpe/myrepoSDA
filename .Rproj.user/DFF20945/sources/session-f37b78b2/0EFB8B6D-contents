@@ -1,0 +1,25 @@
+
+@misc{CarineSDA,
+	title = {{CarineSDA}},
+	abstract = {bibliography: nameOfTheBibFile.bib -{\textgreater} To choose the file containing your references
+biblio-style: nameOfTheBiblioStyle -{\textgreater} To choose the style of your bibliography
+output:
+pdf\_document:
+citation\_package: biblatex},
+}
+
+@misc{Instant,
+	title = {Un instant…},
+	url = {https://www.researchgate.net/profile/Bart-Criel/publication/27597475_Mutuelles_de_sante_en_Afrique_et_qualite_des_soins_dans_les_services_une_interaction_dynamique/links/09e4150c0d4d3afe87000000/Mutuelles-de-sante-en-Afrique-et-qualite-des-soins-dans-les-services-une-interaction-dynamique.pdf?__cf_chl_tk=r1mXwVgn7M9MzbgjUjmhSfiyFpg9DlNQZ01GubTnhbg-1751559471-1.0.1.1-bXiGGzDRaAY4ple9PFDCgtuHRAXk9PtbhrFnhjwPnHU},
+	urldate = {2025-07-03},
+}
+
+@article{crielMutuellesSanteAfrique2006,
+	title = {Mutuelles de santé en {Afrique} et qualité des soins dans les services: une interaction dynamique},
+	shorttitle = {Mutuelles de santé en {Afrique} et qualité des soins dans les services},
+	journal = {L’assurance maladie en Afrique francophone: améliorer l’accès aux soins et lutter contre la pauvreté},
+	author = {Criel, Bart and Blaise, Pierre and Ferette, Daniel},
+	year = {2006},
+	note = {Publisher: World Bank},
+	pages = {352--272},
+}
